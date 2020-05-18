@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589824555268.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1981335921",
+    "id" : "F4A2C0F3",
+    "lastKnownWriteTime" : 1589827316,
+    "last_content_update" : 1589827316800,
+    "path" : "C:/Users/mirae/Desktop/Dual_Stats-ing/Dual_stats_source.R",
+    "project_path" : "Dual_stats_source.R",
+    "properties" : {
+        "cursorPosition" : "8,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
